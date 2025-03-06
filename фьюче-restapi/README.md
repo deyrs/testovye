@@ -8,3 +8,4 @@
     <li>restapi-test.db со сгенерерированными значениями</li>
 </ul>
 <p>Тестировал вручную с помощью Postman, просил нейросеть сгенерировать тестовые случаи</p>
+<p><a href="https://deyrs.github.io/verstka/swagger.html">Ссылка на swagger-описание</a></p>
