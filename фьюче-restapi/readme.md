@@ -5,5 +5,5 @@
   <li>restapi-test.db с тестовыми значениями</li>
 </ul>
 <p>Нужно активировать pdo-sqlite драйвер, добавив в php.ini строку в таком формате:</p>
-<p>`extension="C:\php\ext\php_pdo_sqlite.dll"</p>
+<p>extension="C:\php\ext\php_pdo_sqlite.dll"</p>
 <p>Тестировал вручную с помощью Postman, просил нейросеть сгенерировать тестовые случаи.</p>
